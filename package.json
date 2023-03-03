@@ -1,5 +1,5 @@
 {
-  "name": "cfworkers-aichat",
+  "name": "cf-workers-aichat",
   "version": "0.0.1",
   "description": "AI Chat bot built on Cloudflare workers, powered by OpenAI",
   "main": "index.js",
